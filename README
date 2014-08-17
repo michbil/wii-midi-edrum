@@ -1,0 +1,3 @@
+Wii rockband2 edrum with piezo triggers. Arduino UNO hardware. 
+Can send midi messages via usb, and i2c messages to wii remote
+Based on https://code.google.com/p/circle-of-current/wiki/WiiDrumController
